@@ -25,7 +25,7 @@ La implementación del requerimiento RF-03 ("La aplicación TechCup debe tener u
 | **Título** | Registro de nuevos usuarios |
 | **Descripción** | Como estudiante, quiero registrarme en TechCup con un usuario y una contraseña, para poder acceder a la plataforma y participar en los torneos. |
 | **Prioridad** | Alta |
-| **Estimación** |  |
+| **Estimación** | 5 Story points |
 
 | Campo | Descripción |
 |------|-------------|
@@ -33,7 +33,7 @@ La implementación del requerimiento RF-03 ("La aplicación TechCup debe tener u
 | **Título** | Inicio de sesión |
 | **Descripción** | Como usuario registrado, quiero iniciar sesión con mi usuario y contraseña, para acceder a las funcionalidades de TechCup correspondientes a mi cuenta. |
 | **Prioridad** | Alta |
-| **Estimación** | |
+| **Estimación** | 3 Story points |
 
 | Campo | Descripción |
 |------|-------------|
@@ -41,7 +41,7 @@ La implementación del requerimiento RF-03 ("La aplicación TechCup debe tener u
 | **Título** | Validación y rechazo de credenciales inválidas |
 | **Descripción** | Como usuario, quiero recibir un mensaje claro cuando ingreso credenciales incorrectas o un usuario ya registrado, para entender qué debo corregir y evitar quedar bloqueado sin explicación. |
 | **Prioridad** | Media |
-| **Estimación** |  |
+| **Estimación** | 2 Story points |
 
 | Campo | Descripción |
 |------|-------------|
@@ -49,7 +49,7 @@ La implementación del requerimiento RF-03 ("La aplicación TechCup debe tener u
 | **Título** | Diferenciación de roles al autenticarse |
 | **Descripción** | Como sistema, quiero identificar y asignar el rol correspondiente (estudiante, capitán u organizador) a cada usuario autenticado, para mostrarle únicamente las funcionalidades permitidas según su rol. |
 | **Prioridad** | Alta |
-| **Estimación** |  |
+| **Estimación** | 8 Story points |
 
 ---
 
