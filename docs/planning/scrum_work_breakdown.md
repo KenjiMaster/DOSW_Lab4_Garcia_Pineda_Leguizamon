@@ -162,4 +162,4 @@ La implementación del requerimiento RF-03 ("La aplicación TechCup debe tener u
 
 ## Video asignacion de puntos
 
-[![videoAsignacion](https://placeholders.dev](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/thomas_garcia-g_mail_escuelaing_edu_co/IQAED1O_p7iAT6_6FHt2M9weATUzXODhznvr3qJLSV5Kp1o?e=lagZR2&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[![Ver Video](https://via.placeholder.com/600x337.png?text=Haz+clic+para+ver+el+video)](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/thomas_garcia-g_mail_escuelaing_edu_co/IQAED1O_p7iAT6_6FHt2M9weATUzXODhznvr3qJLSV5Kp1o?e=lagZR2)
