@@ -39,3 +39,9 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 ### 5. Backlog:
 
 ![Backlog](../images/backlog.png)
+
+### 6. Sprint:
+
+![Sprint1](../images/CreacionSprint1.png)
+
+Explicacion: Este sprint se tomo con estas concideraciones teniendo en cuenta la habilidad de cada uno de los integrantes. Al no poder distribuir los puntos de forma equitativa para los 3, la actividad con mas Story Points fue para la persona que indico que esta seccion era la mas simple de realizar para este, junto a la persona que menos experiencia tiene es la que posee tareas de menor dificultad, siguiendo esta idea la cantidad de trabajo queda distribuida en todo el equipo de forma equitativa para el primer sprint.
